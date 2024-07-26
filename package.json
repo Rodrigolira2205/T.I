@@ -1,0 +1,18 @@
+{
+  "name": "teste-keeggo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serverest"
+  },
+  "keywords": [],
+  "author": "rodrigo lira",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.13.1"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
